@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/clime/Documents/FP/Entorns de desenvolupament/Tasca 4/Deposito/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/clime/Documents/FP/Entorns de desenvolupament/Tasca 4/Deposito/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Deposito 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Deposito 1.0-SNAPSHOT API'
+cuentas
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\src\main\java = 1708864597419
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\allclasses-index.html = 1708864703445
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\allpackages-index.html = 1708864703448
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\copy.svg = 1708864703485
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\element-list = 1708864703393
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\help-doc.html = 1708864703478
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\index-all.html = 1708864703468
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\index.html = 1708864703473
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\link.svg = 1708864703487
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\member-search-index.js = 1708864703455
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\module-search-index.js = 1708864703450
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\overview-tree.html = 1708864703431
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\package-search-index.js = 1708864703452
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\script.js = 1708864703483
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\search-page.js = 1708864703492
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\search.html = 1708864703471
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\search.js = 1708864703489
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\stylesheet.css = 1708864703481
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\tag-search-index.js = 1708864703455
+C:\Users\clime\Documents\FP\Entorns de desenvolupament\Tasca 4\Deposito\target\site\apidocs\type-search-index.js = 1708864703453
